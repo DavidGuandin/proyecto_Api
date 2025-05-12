@@ -18,3 +18,5 @@ $routes->group('api', ['namespace'=>'App\Controllers\API'],function($routes){
     $routes->get('clientes', 'Clientes::index');
 
 });
+
+//cositas
